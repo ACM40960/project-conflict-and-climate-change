@@ -1,0 +1,260 @@
+Country,Year,Number of deaths from disasters
+China,1902,2500
+China,1905,0
+China,1906,280
+China,1907,12000
+China,1909,21
+China,1911,100000
+China,1912,50000
+China,1913,942
+China,1915,170
+China,1917,1800
+China,1918,10000
+China,1920,680000
+China,1922,100000
+China,1923,5000
+China,1924,100
+China,1925,5012
+China,1927,45912
+China,1928,3000000
+China,1930,242
+China,1931,3710000
+China,1933,28200
+China,1934,500
+China,1935,142100
+China,1936,145
+China,1937,390
+China,1939,500000
+China,1940,181
+China,1941,147
+China,1942,120
+China,1945,17
+China,1948,3040
+China,1949,57021
+China,1950,500
+China,1951,4800
+China,1952,54
+China,1954,32000
+China,1955,39
+China,1956,4000
+China,1957,560
+China,1959,484910
+China,1960,958005
+China,1961,559056
+China,1964,686
+China,1965,0
+China,1967,0
+China,1969,3000
+China,1970,10107
+China,1973,0
+China,1974,20000
+China,1975,22000
+China,1976,242000
+China,1978,0
+China,1979,42
+China,1980,6491
+China,1981,2465
+China,1982,551
+China,1983,921
+China,1984,144
+China,1985,1661
+China,1986,683
+China,1987,881
+China,1988,3969
+China,1989,3161
+China,1990,1324
+China,1991,4317
+China,1992,1449
+China,1993,1565
+China,1994,3203
+China,1995,2436
+China,1996,5612
+China,1997,1633
+China,1998,4501
+China,1999,1727
+China,2000,663
+China,2001,922
+China,2002,1426
+China,2003,1092
+China,2004,807
+China,2005,1020
+China,2006,2109
+China,2007,1150
+China,2008,88450
+China,2009,582
+China,2010,7186
+China,2011,746
+China,2012,802
+China,2013,1395
+China,2014,1575
+China,2015,500
+China,2016,1287
+China,2017,514
+China,2018,354
+China,2019,571
+China,2020,463
+Dominica,1930,2000
+Dominica,1963,0
+Dominica,1970,0
+Dominica,1979,40
+Dominica,1980,0
+Dominica,1984,2
+Dominica,1989,0
+Dominica,1995,2
+Dominica,1999,0
+Dominica,2004,0
+Dominica,2007,2
+Dominica,2011,0
+Dominica,2015,30
+Dominica,2017,64
+India,1900,1250000
+India,1905,20000
+India,1916,300
+India,1924,1242
+India,1925,80
+India,1926,0
+India,1927,685
+India,1928,36
+India,1935,60100
+India,1936,233
+India,1942,1540000
+India,1943,5000
+India,1944,304
+India,1945,0
+India,1948,500
+India,1949,1000
+India,1950,1735
+India,1952,750
+India,1953,480
+India,1954,30
+India,1955,2120
+India,1956,290
+India,1957,187
+India,1958,708
+India,1959,621
+India,1960,237
+India,1961,3457
+India,1962,173
+India,1963,512
+India,1964,732
+India,1965,500100
+India,1966,500080
+India,1967,501477
+India,1968,7459
+India,1969,815
+India,1970,1053
+India,1971,11041
+India,1972,230
+India,1973,261
+India,1974,280
+India,1975,898
+India,1976,270
+India,1977,14766
+India,1978,5635
+India,1979,1519
+India,1980,2856
+India,1981,1658
+India,1982,2076
+India,1983,1634
+India,1984,1574
+India,1985,2162
+India,1986,800
+India,1987,1880
+India,1988,3511
+India,1989,1915
+India,1990,2361
+India,1991,2641
+India,1992,1166
+India,1993,11251
+India,1994,2395
+India,1995,2934
+India,1996,2876
+India,1997,2476
+India,1998,8617
+India,1999,11178
+India,2000,2556
+India,2001,20968
+India,2002,2811
+India,2003,1992
+India,2004,17996
+India,2005,4201
+India,2006,1521
+India,2007,2212
+India,2008,1797
+India,2009,1928
+India,2010,1344
+India,2011,1038
+India,2012,433
+India,2013,7285
+India,2014,1072
+India,2015,3400
+India,2016,1129
+India,2017,2346
+India,2018,1396
+India,2019,2307
+India,2020,2316
+Micronesia (country),1987,5
+Micronesia (country),1998,0
+Micronesia (country),2002,47
+Micronesia (country),2003,0
+Micronesia (country),2004,1
+Micronesia (country),2008,0
+Micronesia (country),2015,5
+Micronesia (country),2016,0
+Micronesia (country),2019,0
+Tonga,1946,0
+Tonga,1961,2
+Tonga,1973,3
+Tonga,1977,1
+Tonga,1982,7
+Tonga,1990,1
+Tonga,1997,0
+Tonga,1998,0
+Tonga,2001,0
+Tonga,2004,0
+Tonga,2009,9
+Tonga,2011,0
+Tonga,2014,1
+Tonga,2015,0
+Tonga,2016,0
+Tonga,2018,0
+Tonga,2020,0
+United Kingdom,1952,4034
+United Kingdom,1966,140
+United Kingdom,1968,20
+United Kingdom,1972,0
+United Kingdom,1976,0
+United Kingdom,1977,6
+United Kingdom,1981,12
+United Kingdom,1983,5
+United Kingdom,1984,22
+United Kingdom,1986,0
+United Kingdom,1987,20
+United Kingdom,1989,13
+United Kingdom,1990,83
+United Kingdom,1991,48
+United Kingdom,1993,4
+United Kingdom,1994,7
+United Kingdom,1995,9
+United Kingdom,1996,5
+United Kingdom,1997,15
+United Kingdom,1998,40
+United Kingdom,1999,11
+United Kingdom,2000,16
+United Kingdom,2001,0
+United Kingdom,2002,15
+United Kingdom,2003,301
+United Kingdom,2004,0
+United Kingdom,2005,11
+United Kingdom,2007,27
+United Kingdom,2008,8
+United Kingdom,2009,8
+United Kingdom,2010,0
+United Kingdom,2012,8
+United Kingdom,2013,771
+United Kingdom,2014,7
+United Kingdom,2015,3
+United Kingdom,2017,0
+United Kingdom,2018,0
+United Kingdom,2019,167
+United Kingdom,2020,2558
