@@ -13,8 +13,8 @@ The results highlight how human intervention is the primary driver of global war
 ---
 
 ##  AUTHORS  
-- **@Davin V Jobin**  
-- **@Emma Thomas**  
+- [@Davin V Jobin](https://github.com/davinvadakkethonikuzhiyiljobin) 
+- [@Emma Thomas](https://github.com/Emma-Thomas-24209270)
 
 ---
 ---
@@ -41,105 +41,65 @@ Ultimately, the project aims to show that while short-term variations may arise 
 ## GREENHOUSE GASES  
 
 ## CO₂ EMISSIONS  
-CO₂ is the most abundant human-generated GHG, produced mainly through fossil fuel combustion, deforestation, and industrial processes. It persists in the atmosphere for centuries, making it the primary driver of long-term warming.
+Carbon dioxide (CO₂) is the most common greenhouse gas produced by humans. It mainly comes from burning coal, oil, and gas for electricity, transport, and industry, as well as from cutting down trees. What makes CO₂ so harmful is that it stays in the atmosphere for hundreds of years, keeping the Earth warm long after it’s released.
 
 
 ![CO₂ Emissions](figures/co2_emissions_plot.png)  
 
 1. China (blue)
-* The most prominent curve in the graph.
-* CO₂ emissions were low until the late 1950s, began rising slowly, then accelerated dramatically after 2000.
-* By 2025, China surpasses 11 billion tons/year — nearly 10× more than its 1970s level.
-* This surge corresponds to China’s industrialization, urbanization, and reliance on coal-based energy. It is a direct link between human activity and emissions growth.
+China’s emissions remained low until around the 1950s. After that, they started rising, and from the 2000s onwards, they shot up very quickly. Today, China is the world’s biggest emitter of CO₂, producing over 11 billion tons a year. This huge increase is linked to China’s fast industrial growth, growing cities, and heavy use of coal. It clearly shows how human activities can cause sharp increases in greenhouse gas emissions.
 
 2. India (green)
-* Emissions start low and begin rising gradually around 1950–1960, but acceleration happens after 1990.
-* In 2025, India's emissions are around 2.5–3 billion tons/year — steadily rising.
-* India’s rise parallels population growth, expanding energy needs, and agricultural intensification. The steady rise reinforces the human-made emissions narrative — especially in the Global South.
+India also started with low emissions. From the 1950s onwards, emissions slowly grew, and then picked up more speed after 1990. By 2025, India’s emissions are expected to reach around 2.5 to 3 billion tons a year. This growth is due to the country’s large population, growing need for electricity, and farming. It shows how human development and energy use directly affect CO₂ levels.
 
 3. United Kingdom (brown)
-* The only country that shows an early rise (mid-1800s) and a plateau/fall after ~1970.
-* UK emissions peak around 1900–1950, then decline steadily after 1980.
-* This reflects the UK’s early industrialization and later transition to cleaner energy sources, better efficiency, and climate policy. It provides historical proof that human decisions and policy can reduce emissions.
+The UK has a different pattern. Its emissions started rising very early in the 1800s during the industrial revolution. But since the 1970s, the UK’s emissions have dropped steadily. This is because the country moved towards cleaner energy, better technology, and strong climate policies. The UK shows us that it's possible to reduce emissions while still growing the economy.
 
 4. Tonga / Dominica / Micronesia (pink/purple/orange)
-* All three show flat lines near zero throughout the entire period.
-* No significant contribution to global CO₂ emissions.
-* These countries contribute negligibly to global emissions yet but still experience warming.
+These small island nations have contributed almost nothing to global CO₂ emissions. Their emission levels have stayed flat and near zero. Yet, they are among the first to feel the effects of climate change like rising sea levels and stronger storms. This is a clear example of climate injustice: countries that pollute the least are often the most affected.
 
-Carbon dioxide (CO₂) is the largest contributor to anthropogenic climate change, primarily released through fossil fuel combustion, deforestation, and industrial activities. It is the most abundant long-lived greenhouse gas, remaining in the atmosphere for centuries and acting as the primary driver of sustained global warming.
-Our analysis shows steep increases in CO₂ emissions from industrializing nations such as China and India, especially after the 1950s, with China now the dominant global emitter. The United Kingdom, while historically one of the highest emitters, has seen emissions steadily decline since the 1970s due to policy shifts and a transition away from coal. Small island nations such as Tonga, Dominica, and Micronesia remain negligible contributors throughout the period.
-The plot reveals that China exhibits exponential growth in emissions beginning in the 1980s, while India follows a steadier upward trajectory. By contrast, the UK shows a clear downward path, reflecting decarbonization efforts. The sustained rise in emissions from emerging economies directly parallels their industrial and economic growth, strongly supporting the case that global warming is primarily driven by human activity rather than natural variability.
+Carbon dioxide (CO₂) is the largest contributor to anthropogenic climate change, primarily released through fossil fuel combustion, deforestation, and industrial activities. It is the most abundant long-lived greenhouse gas, remaining in the atmosphere for centuries and acting as the primary driver of sustained global warming. Our analysis shows steep increases in CO₂ emissions from industrializing nations such as China and India, especially after the 1950s, with China now the dominant global emitter. The United Kingdom, while historically one of the highest emitters, has seen emissions steadily decline since the 1970s due to policy shifts and a transition away from coal. Small island nations such as Tonga, Dominica, and Micronesia remain negligible contributors throughout the period. The plot reveals that China exhibits exponential growth in emissions beginning in the 1980s, while India follows a steadier upward trajectory. By contrast, the UK shows a clear downward path, reflecting decarbonization efforts. The sustained rise in emissions from emerging economies directly parallels their industrial and economic growth, strongly supporting the case that global warming is primarily driven by human activity rather than natural variability.
 
 
 
 ## CH₄ EMISSIONS
-Methane (CH₄) is a potent greenhouse gas — over 25× more powerful than CO₂ in trapping heat over a 100-year period. Key human sources include:
-* Livestock digestion (enteric fermentation)
-* Rice paddies
-* Landfills
-* Oil and gas operations
+Methane (CH₄) is one of the most powerful greenhouse gases, trapping over 25 times more heat than carbon dioxide over a century. The key human sources include, livestock farming, rice cultivation, landfills, and the oil and gas industry
   
 ![CH₄ Emissions](figures/methane_emissions_plot.png)
 
 1. China (blue line)
-* Methane emissions were steady and moderate until the 1950s
-* Post-1960s, emissions began a rapid and steady exponential increase
-* Massive acceleration observed after 1980 and especially post-2000
-* By 2025, China’s methane emissions approach 1.9 billion tons CO₂-eq/year
-* Reflects China’s livestock boom, large-scale rice cultivation, waste expansion, and fossil fuel industry growth. Strong evidence of human-induced methane emissions on a national scale.
+China’s methane emissions stayed relatively stable until the mid-20th century. From the 1950s onwards, however, they began to climb rapidly, accelerating especially after 1980 and surging again after 2000. By 2025, China is releasing nearly 1.9 billion tons of CO₂-equivalent methane every year. This dramatic increase mirrors the country’s growth in livestock production, rice farming, fossil fuel extraction, and waste generation. China’s trend is a clear example of how intensified human activity drives methane emissions at the national scale.
 
 2. India (green line)
-* Emissions start high even in the 1800s — likely due to agriculture and livestock, which have long been central to India's economy
-* Moderate growth between 1850–1950, but steep growth from 1970 onward
-* India reaches over 1 billion tons CO₂-eq/year by 2025
-* India’s emissions largely stem from agricultural methane, especially cattle and rice. Strong human link, especially in the agriculture sector.
+India’s methane emissions have been high for centuries, reflecting its long reliance on agriculture and livestock. From 1850 to 1950, the growth is moderate, but after 1970, emissions rise steeply. By 2025, India produces more than 1 billion tons of CO₂-equivalent methane annually. The primary sources are agricultural particularly cattle rearing and flooded rice paddies. This long-term pattern highlights the strong human link between agricultural practices and methane output.
 
 3. United Kingdom (brown line)
-* Methane emissions show a long, flat increase from 1850 to about 1990, followed by a clear decline
-* By 2025, the UK’s methane emissions are down significantly — below 0.1 billion tons
-* This decline reflects methane abatement policies (e.g., improved livestock management, better landfills, reduced coal mining). Demonstrates that policy interventions can reduce emissions.
+Methane emissions in the UK show a gradual increase from 1850 to around 1990, followed by a clear and sustained decline. By 2025, the UK’s emissions fall below 0.1 billion tons CO₂-equivalent. This reduction is largely due to improved livestock management, better landfill practices, and reduced coal mining. The UK’s progress shows that deliberate policies can meaningfully cut methane emission.
 
 4. Tonga, Dominica, Micronesia (pink, orange, purple — nearly flat lines)
-* Emissions are essentially flat and near zero throughout the time period
-* These small island nations have minimal agricultural or industrial methane sources, yet they still suffer warming — supports your climate injustice argument (i.e., affected by others’ emissions).
+For these small island countries, methane emissions have remained flat and close to zero across the entire period. Due to minimal industrial activity and limited livestock agriculture, their methane outputs are negligible. However, despite their low contributions, these countries still experience the damaging effects of climate change. Their situation underscores the disproportionate burden faced by low-emission nations due to emissions generated elsewhere.
 
 China and India show consistent growth in methane emissions, with a marked acceleration after the 1970s driven by agricultural expansion, livestock farming, and waste sector development. The United Kingdom, in contrast, demonstrates a steady decline in emissions after the 1990s, reflecting the success of regulatory measures and improved management practices. Small island nations contribute only negligible amounts of methane, yet remain among the most vulnerable to its warming effects, underscoring the disproportionate burden on low-emission countries. Overall, these trends highlight how human-driven agricultural and industrial activities are key contributors to rising methane levels and global warming.
 
 
 ## N₂O EMISSIONS
-N₂O (nitrous oxide) is a potent greenhouse gas: ~298× more powerful than CO₂ per molecule (on a 100-year scale). Main human sources:
-* Agricultural soil management (synthetic fertilizers, manure)
-* Livestock waste
-* Fossil fuel combustion
-* Industrial processes (e.g., nitric acid production)
+N₂O (nitrous oxide) is a potent greenhouse gas: ~298× more powerful than CO₂ per molecule (on a 100-year scale). Most of it comes from the way we farm and use fertilizers, how we manage livestock waste, burn fuels, and run certain industries
   
 ![N₂O Emissions](figures/no2_emissions_plot.png)  
 
 1. China (blue line)
-* Minimal emissions pre-1950
-* Rapid exponential rise from 1960s, peaking around 2005–2015
-* Recent dip or leveling off but still the highest emitter in this group
-* Emissions exceed 4×10⁸ tons CO₂-equivalent
-* This mirrors the green revolution, fertilizer-intensive farming, and rapid industrialization.
-* The rise strongly supports the anthropogenic origin of greenhouse gas emissions.
+China's nitrous oxide emissions were minimal until 1950 but began rising rapidly during the 1960s, showing an exponential increase that peaked between 2005 and 2015. Even though there’s been a slight dip in recent years, China still leads as the largest emitter among the countries studied. This pattern lines up closely with the Green Revolution, the heavy use of fertilizers, and rapid industrial growth strongly supporting that human activity is at the core of these emissions.
 
 2. India (green line)
-* Starts with slightly elevated emissions even in the 1800s, likely due to traditional agriculture
-* Growth picks up from 1950s, with consistent increase
-* By 2025, India reaches close to 3×10⁸ tons CO₂-equivalent
-* Fertilizer use, animal waste management, and farming practices drive N₂O rise. This is another human-driven trajectory, especially from agriculture, not nature.
+In India, emissions were already slightly elevated in the 1800s due to long-standing agricultural practices, but began increasing consistently from the 1950s onward. By 2025, India is expected to reach nearly 300 million tons CO₂-equivalent, largely driven by fertilizer use, livestock waste, and farming practices. Like China, India’s rise is clearly linked to the growth of intensive, fertilizer-based agriculture.
 
 3. United Kingdom (brown line)
-* Shows steady increase until ~1990s, followed by visible decline
-* Today sits below 1×10⁸ tons, having dropped ~40% from peak
-* UK’s emissions fall due to agricultural reform, reduced fertilizer use, and environmental policy. Strong example of successful climate governance.
+The United Kingdom shows a steady increase in emissions until the 1990s, followed by a significant decline of around 40%. This drop reflects the success of agricultural reforms, reduced fertilizer usage, and effective climate policy serving as an example of impactful climate governance.
 
 4. Tonga / Dominica / Micronesia (pink, purple, orange lines — flat at bottom)
-* Lines remain flat and near-zero across the timeline
-* These countries produce negligible nitrous oxide, supporting the idea that small island nations are victims, not contributors to global warming.
+Countries like Tonga, Dominica, and Micronesia display flat, near-zero emission levels throughout the time series. These small island nations contribute negligibly to global N₂O emissions, but still face the consequences of climate change.
 
-China exhibits a sharp rise in nitrous oxide emissions after the 1960s, largely driven by the widespread use of industrial fertilizers and the expansion of intensive agriculture. India shows steady growth beginning in the 1950s, reflecting similar agricultural trends. In contrast, the United Kingdom’s emissions declined after the 1990s, following agricultural reforms and stronger environmental regulations. Small island nations such as Tonga, Micronesia, and Dominica contribute virtually no emissions, yet remain highly exposed to the consequences of global warming. These patterns reinforce the conclusion that greenhouse gas emissions—and the resulting temperature rise—are overwhelmingly linked to human activity, particularly in the agricultural sector.
+China and India’s sharp increases in N₂O emissions reflect the rise of fertilizer-heavy agriculture and industrial growth. However, UK shows that strong policies and changes in farming can reverse the trend.  Small island nations such as Tonga, Micronesia, and Dominica contribute almost nothing, but remain highly exposed to the consequences of global warming. These patterns gives the conclusion that greenhouse gas emissions and the resulting temperature rise are overwhelmingly linked to human activity, particularly in the agricultural sector.
 
 ## LAND ANIMALS SLAUGHTERED FOR MEAT OVER TIME
 This graph illustrates the number of land animals slaughtered for meat annually across six countries from 1960 to 2025.
@@ -147,31 +107,18 @@ This graph illustrates the number of land animals slaughtered for meat annually 
 ![Animal Slaughter](figures/animal_slaughter_plot.png)  
 
 1. China (blue line)
-* Steady increase from 1960, then rapid growth post-1980
-* Explosive growth from 1990–2025
-* By 2025, China slaughters >17 billion animals annually
-* This enormous growth matches China’s industrial meat production boom, dietary shifts (more meat consumption), and population growth.
-* Strongly explains the parallel rise in CH₄ and N₂O emissions you observed in earlier graphs.
+In China, the number of animals slaughtered annually has shown a steady increase since 1960, followed by rapid growth after 1980 and an explosive surge from 1990 through 2025. By 2025, more than 17 billion animals are slaughtered every year. This sharp rise aligns with the country's population growth, increased meat consumption, and the expansion of industrial-scale meat production. It also connects directly to the sharp increases in methane and nitrous oxide emissions, since livestock production is a major source of both gases.
 
 2. India (green line)
-* Starts very low (~1960), grows slowly until 1990
-* Post-1990: Steady and moderate growth
-* By 2025: ~3.5–4 billion animals per year
-* India’s meat industry is smaller than China’s due to cultural factors (e.g., beef restrictions), but still significant.
-* Contributes to methane emissions via livestock and dairy sectors.
+India starts from a much lower baseline around 1960, with gradual growth up to 1990, followed by a steady and moderate increase in animal slaughter through 2025. The number of animals slaughtered annually is projected to reach approximately 3.5 to 4 billion by 2025. While India’s meat industry is smaller than China’s, it still plays a significant role in methane emissions, particularly through livestock and dairy-related activities.
 
 3. United Kingdom (brown line)
-* Flat growth trend — small increase from 1960s to 2025
-* Appears relatively stable at ~1–1.2 billion animals/year
-* The UK’s relatively flat line correlates with its stabilized CH₄ and declining N₂O emissions.
-* Likely due to meat consumption plateauing and/or efficient farming practices.
+The United Kingdom displays a relatively stable trend, with a slow and flat growth in animal slaughter from the 1960s to 2025, maintaining around 1 to 1.2 billion animals per year. This steadiness reflects both stable meat consumption patterns and improved agricultural efficiency. It also correlates well with the UK’s stabilized methane emissions and declining nitrous oxide levels, suggesting that effective farming practices and policy interventions can manage environmental impacts from the livestock sector.
 
 4. Tonga / Dominica / Micronesia (pink, orange, purple lines)
-* All three show negligible slaughter numbers, essentially flat
-* Minimal livestock industries → negligible methane/nitrous oxide emissions.
-* Yet they are experiencing warming — again supporting climate injustice.
+These small island nations remain almost invisible on the graph. These nations have minimal livestock industries and therefore contribute insignificantly to methane and nitrous oxide emissions. However, they still face the effects of climate change This highlights the imbalance of climate justice.
 
-China shows an exponential rise, exceeding 17 billion animals per year, driven by increased meat consumption and industrial agriculture. India also shows a steady upward trend. The UK remains relatively flat, reflecting stable dietary trends. Small island nations (Tonga, Dominica, Micronesia) remain near-zero, indicating negligible contributions to agricultural GHG emissions. These trends explain the methane and nitrous oxide emission patterns seen earlier and link dietary behavior to climate change.
+China shows an exponential rise, exceeding 17 billion animals per year, driven by increased meat consumption and industrial agriculture. India also shows a steady upward trend. The UK remains relatively flat, reflecting stable dietary trends. Small island nations (Tonga, Dominica, Micronesia) remain near zero, showing negligible contributions to agricultural emissions. These patterns explain the methane and nitrous oxide emission trends we saw earlier and link dietary behavior to climate change.
 
 
 ## TEMPERATURE CHANGE OVER TIME 
@@ -179,48 +126,44 @@ Annual temperature anomalies from 1960 to 2025 across six countries.
 ![Temperature Change](figures/temperature_change.png)  
 
 General Warming Trend Across All Countries
-* All six countries show a clear upward trend in temperature anomalies since the 1960s
-* The post-1990s period shows strongest warming, particularly after 2000
-* 2023–2025 period reaches >2°C above baseline in China and ~1.5°C in Tonga, Dominica, and UK
-* This visually confirms the global nature of warming — not regional or isolated.
+Across all six countries examined, there is a clear and consistent upward trend in temperature anomalies beginning from the 1960s. It accelerates sharply after the 1990s, with the steepest climb after 2000. By 2023–2025, temperature anomalies cross 2°C in China and reach 1.5°C in Tonga, Dominica, and the United Kingdom. This pattern strongly confirms that global warming is not a localized phenomenon it is widespread and affects countries regardless of size, geography, or emission levels.
 
 1. China (Blue line)
-* Starts near baseline (~0°C anomaly)
-* Shows strong, continuous warming especially after 1995
-* By 2025: reaches 2.5°C anomaly
-* Matches the pattern of China's exponential CO₂ and CH₄ emissions. A classic case of human-caused warming.
+China’s temperature trend begins near the baseline, with anomalies close to 0°C. But after the mid-1990s, temperatures rise steeply. By 2025, China reaches around 2.5°C anomaly. This steep rise closely shows the country’s exponential increases in both carbon dioxide (CO₂) and methane (CH₄) emissions, reinforcing the conclusion that China's warming is a direct consequence of human-driven industrial activity and energy consumption.
 
-3. India (Green line)
-* Starts with some fluctuations around zero
-* Warming is visible but slightly less steep than China
-* By 2025: anomaly is ~1.0–1.2°C
-* Also aligns with India’s steady emissions growth — agriculture-driven CH₄ and fertilizer-based N₂O likely contributors.
+2. India (Green line)
+India also begins with some fluctuation around zero in the earlier years. The rise is slower than China’s but still consistent. By 2025, India’s anomaly reaches around 1.0 to 1.2°C. This increase aligns with India’s steady rise in greenhouse gas emissions, particularly from agriculture-driven methane and fertilizer-related nitrous oxide (N₂O). It shows how even gradual emission growth translates into long-term temperature increases.
 
-4. United Kingdom (Brown line)
-* Higher variance in early years, but steady upward trend post-1980
-* By 2025: anomaly is ~1.5–1.7°C, despite reduced emissions
-* Important evidence that warming is global, not solely local — even as UK’s emissions declined, warming continued.
+3. United Kingdom (Brown line)
+The United Kingdom displays more variability in the early decades but follows a consistent warming trend from around 1980 onward. Despite the UK's efforts to reduce emissions over the last few decades, its temperature anomaly still rises to approximately 1.5 to 1.7°C by 2025. This pattern provides critical evidence that global warming is driven by the cumulative global emission load not just by individual nations making it clear that even countries with declining emissions remain vulnerable to rising temperatures.
 
-5. Tonga, Dominica, Micronesia (Purple, Orange, Red)
-* All start near 0°C with minimal anomalies before 1980
-* After 1990: clear warming trend
-* 2025 values reach ~1.2 to 1.7°C
-* These countries contribute virtually nothing to emissions (confirmed by the earlier GHG plots), yet their temperature is rising — highlighting climate injustice. They are warming due to global emissions, not local sources.
+4. Tonga, Dominica, Micronesia (Purple, Orange, Red)
+These small island nations stay close to zero until the 1980s. However, after 1990, these countries exhibit a clear warming trend, reaching 1.2 to 1.7°C by 2025. These nations contribute virtually nothing to global greenhouse gas emissions, as seen in previous CO₂, CH₄, and N₂O analyses. Yet they are experiencing temperature rises consistent with those in much larger, high-emission countries. This shows the climate injustice where those least responsible for emissions are disproportionately affected by their consequences.
 
 
-All countries show a clear warming trend, with China and the United Kingdom reaching anomalies above 2°C. Small Island Nations like Tonga, Dominica, and Micronesia — despite contributing negligibly to global emissions — also show significant warming. These trends visually confirm that global temperature rise is not limited to high-emitting nations and supports the hypothesis of anthropogenic global warming with disproportionate impact on vulnerable nations.
+All countries show a clear warming trend, with China and the United Kingdom reaching anomalies above 2°C. Small Island Nations like Tonga, Dominica, and Micronesia despite contributing negligibly to global emissions also show significant warming. These trends confirm that global temperature rise is not limited to high-emitting nations and supports the human-driven global warming.
 
 
 
 ---
 
 ## CORRELATION ANALYSIS (CO₂ vs Temperature)  
+### Global  
+![Correlation Global](figures/correlation_global.png)  
+
+This correlation matrix shows the relationship between CO₂ emissions and temperature change. The correlation is about 0.425, which indicates a moderate positive linear relationship. In other words, as CO₂ emissions increase, global temperature also tends to rise, though the relationship is not perfectly linear. This says that increased greenhouse gas emissions, particularly carbon dioxide, are a significant driver of global warming.
+However, the correlation is not extremely high (i.e., not close to 1), which suggests that other factors such as methane and nitrous oxide emissions, solar variability, volcanic activity, and natural climate cycles also influence temperature changes. Still, the positive correlation observed here supports that human-induced CO₂ emissions are playing a significant role in rising global temperatures over time.
+This strengthens our study that global warming is not just a natural occurrence but is amplified by human activity, particularly in heavily industrialized and rapidly developing countries. It also highlights the importance of continued monitoring and reducing carbon emissions as a climate mitigation strategy
 
 ### Country Wise  
 ![Correlation Country Wise](figures/correlation_countrywise.png)  
 
-### Global  
-![Correlation Global](figures/correlation_global.png)  
+This table presents the correlation between CO₂ emissions and temperature change for four countries: China, Dominica, India, and Tonga. The values reflect how closely linked carbon emissions are with rising temperatures in each country.
+China shows the strongest positive correlation, with a coefficient of 0.690, indicating a strong linear relationship between its CO₂ emissions and temperature increase. This aligns with China's rapid industrialization and its position as the world’s largest CO₂ emitter. The data suggests that the country’s emissions are directly contributing to its observed warming.
+India has a moderately strong correlation of 0.575, suggesting that as CO₂ emissions from agriculture, industry, and transportation have grown, they have been accompanied by a noticeable rise in temperatures. This supports the role of human activity in climate change within the Indian context.
+Dominica, with a correlation of 0.303, shows a weaker but still positive relationship. This could reflect the fact that while Dominica contributes minimally to global emissions, it still experiences warming. This implies external/global influences on local climate, highlighting the climate injustice small nations face they are affected by emissions from larger polluters.
+Tonga has the weakest correlation (0.173), indicating a very limited direct relationship between its local CO₂ emissions and temperature change. This again reflects the country’s low-emission status but continued exposure to global warming, likely due to imported climate effects rather than internal emissions.
+Overall, the analysis gives the conclusion that larger emitters experience a clearer internal link between emissions and warming, while small nations face the consequences despite minimal contributions, emphasizing the global interconnectedness of climate systems and the inequitable burden of climate change
 
 ---
 
@@ -229,148 +172,73 @@ All countries show a clear warming trend, with China and the United Kingdom reac
 
 ![Volcanic Aerosols](figures/global_saod.png)  
 
-This graph shows the Global Average Stratospheric Aerosol Optical Depth (SAOD) over time from the mid-1980s to around 2025.
-Baseline levels (1985–1990, post-2000):
-* SAOD values are generally very low (~0.002–0.01).
-* These represent periods without major volcanic activity, when the stratosphere is relatively clear.
-Major spike (1991–1995):
-       * A sharp increase in SAOD peaking above 0.10 around 1991–1992.
-*  This corresponds to the Mount Pinatubo eruption in June 1991, one of the   largest volcanic eruptions of the 20th century.
-       * The eruption injected massive amounts of sulfur dioxide into the stratosphere,  forming aerosols that reflected sunlight and cooled the Earth for several years.
-       * SAOD gradually declined back to baseline levels by ~1996.
-1.	Post-Pinatubo period (2000–2020):
-              * SAOD remained relatively stable and low, with small fluctuations likely due to minor volcanic eruptions and background aerosol variability.
-2.	Recent increases (around 2020–2023):
-       * There are noticeable but much smaller spikes compared to Pinatubo.
-       * Likely linked to more recent volcanic activity (e.g., the 2022 Hunga Tonga–Hunga Haʻapai eruption) and possibly wildfires, which can also inject aerosols into the stratosphere.
-
-The graph shows that large volcanic eruptions are the dominant driver of major short-term increases in stratospheric aerosol loading, leading to significant but temporary impacts on the global atmosphere and climate. In contrast, during quiescent periods, SAOD remains very low and stable. The recent smaller spikes indicate that while moderate eruptions and events can influence stratospheric aerosols, their global impact is far less pronounced than that of a major eruption like Pinatubo.
+This graph illustrates the global average stratospheric aerosol optical depth (SAOD) over time, from the mid-1980s to 2025. SAOD is a key indicator of the amount of sunlight-reflecting aerosols present in the stratosphere, which can influence global temperatures.
+During the baseline periods from 1985–1990 and after 2000, SAOD values remain very low, ranging between 0.002 and 0.01. These values reflect quiet atmospheric conditions with no major volcanic activity, indicating a clear stratosphere and minimal impact on the Earth’s radiation balance.
+A dramatic deviation from this pattern is observed between 1991 and 1995, marked by a sharp spike in SAOD peaking above 0.10 around 1991–1992. This is due to the eruption of Mount Pinatubo in June 1991, one of the most powerful volcanic events of the 20th century. The eruption released massive amounts of sulfur dioxide into the stratosphere, which formed sulfate aerosols that reflected solar radiation and temporarily cooled the Earth's surface. Following this event, SAOD levels gradually declined back to baseline by around 1996.
+From 2000 to 2020, SAOD levels remained relatively stable and low, with only minor fluctuations caused by small-scale volcanic eruptions and background atmospheric variability. No major volcanic events occurred during this time.
+More recently, between 2020 and 2023, there have been smaller but noticeable spikes in SAOD. These are associated with recent volcanic activity such as the 2022 Hunga Tonga–Hunga Haʻapai eruption, and large-scale wildfires, which can also inject aerosols into the upper atmosphere. However, the global climate impact of these events is comparatively limited.
+Overall, the graph highlights how large volcanic eruptions are the primary drivers of significant short-term increases in SAOD. These eruptions can have a cooling effect on global temperatures, but such effects are temporary. When volcanic activity is low, SAOD remains stable, leaving human-generated greenhouse gases as the dominant force behind long-term global warming.
 
 
 ## DISASTER DEATHS OVER TIME
 
-This shows the number of people killed per year in each country due to disasters, which may include:
-* Floods
-* Storms
-* Droughts
-* Heatwaves
-* Earthquakes
+This shows the number of people killed per year in each country due to disasters such as floods, storms, droughts, heatwaves, and earthquakes
 
 ![Disaster Deaths](figures/disaster_deaths_plot.png)  
 
 1. China (blue line)
-* Shows the highest disaster death tolls of all countries, particularly:
-* Spikes in 1930s and 1940s, exceeding 3.5 million deaths in one year
-* Sustained high fatalities through the 1950s and early 1960s
-* Post-1980: Sharp decline in disaster deaths
-* The early 20th century disasters were likely linked to massive floods, famines, and droughts — some of which may be climate-related.
-The steep decline post-1980 likely reflects improved infrastructure, disaster warning systems, and policy responses.
+China experienced the highest disaster-related death tolls among all countries in the dataset. The most shocking spikes occur in the 1930s and 1940s, with annual deaths exceeding 3.5 million. High death counts continued into the 1950s and early 1960s. mostly due to devastating floods, droughts, and famines. However, from the 1980s onward, China shows a steep decline in disaster fatalities, reflecting the benefits of improved infrastructure, national disaster preparedness, early warning systems, and stronger governance.
 
 2. India (green line)
-* Several extreme spikes:
-* One close to 1.2 million deaths around 1900
-* Another peak (~1.5 million) in 1940s
-* A few smaller spikes in the 1950s–1970s
-* Post-1980: Relatively flat line
-* Like China, India's highest disaster fatalities occurred during pre-modernization periods, likely from floods, drought-induced famines, and extreme heatwaves.
-* Decline in deaths reflects national preparedness and possibly economic development.
+India also shows several devastating peaks in disaster deaths. A major spike appears around 1900, approaching 1.2 million deaths, followed by another large peak in the 1940s, nearing 1.5 million. Smaller surges are visible through the 1950s to the 1970s. Like China, these events were linked to extreme climate-related events such as drought-induced famines, floods, and heatwaves. After 1980, India’s trend flattens considerably, pointing to improved national resilience, better disaster management, and the effects of economic development in reducing human vulnerability.
 
 3. United Kingdom (brown line)
-* Entire line is flat and near-zero
-* UK has almost no visible disaster deaths over the time span
-* The UK’s temperate climate, strong infrastructure, and governance mitigate the scale of fatalities — despite occasional severe weather.
+The UK’s disaster death trend is almost flat throughout the time period. There are no significant spikes or deviations, and the line remains close to zero. This stability is due to its temperate climate, well-developed infrastructure, public health systems, and proactive governance all of which contribute to minimizing disaster fatalities, even during severe weather events.
 
 4. Tonga, Dominica, Micronesia (purple, orange, red lines)
-* All remain flat and extremely close to zero
-* No large disaster fatalities are recorded in this dataset
-* These countries are not historically major disaster death zones, possibly due to: Small populations, Effective regional response, Underreporting
-* However, modern climate change increases their vulnerability to future sea level rise, cyclones, and storm surges.
+Tonga, Dominica, and Micronesia also show flat lines, with almost no recorded disaster deaths. This may be due to their small populations, effective local responses, or underreporting. But still, these island nations face growing threats from modern climate change, including sea level rise, cyclones, and coastal storm surges.
 
-China and India experienced massive fatal disasters, particularly in the early 20th century, with spikes exceeding 1 million deaths. These events were likely linked to floods, droughts, and climate-sensitive conditions. Since the 1980s, fatalities have declined, especially in China, indicating improved disaster resilience. The UK shows minimal disaster deaths throughout, while small island nations show almost no fatalities, despite being highly vulnerable to modern sea level rise and storms. This plot underscores the unequal human impact of climate change and the importance of adaptive capacity.
+Overall, this graph highlights the unequal human impact of disasters across nations. While China and India have suffered mass fatalities in the past often linked to climate-sensitive hazards their recent trends show marked improvement due to development and disaster mitigation strategies. On the other hand, countries with low emissions and minimal historical fatalities, such as small island nations, remain highly vulnerable to the intensifying impacts of a warming planet. This underscores the role of adaptive capacity in reducing disaster risk and the broader inequities in climate vulnerability.
 
 ---
 
-# SECTION 4: 
+# SECTION 3: 
 ## WILDFIRES 
 
 Annual area burnt by wildfires (2012–2025) across selected countries.
 ![Wildfires](figures/wildfire_plot.png)  
 
 1. India (green line)
-* Clearly the most affected by wildfires in this dataset
-* Yearly area burnt ranges between 5 million to 11.5 million hectares
-* Sharp peaks in 2016 and 2021, indicating severe fire years
-* Shows high volatility, suggesting erratic fire patterns, possibly linked to: Temperature anomalies, Drought events, Land-use changes, Agricultural burning practices
-* Worsening wildfire activity in India correlates with both rising temperature and emissions (seen in your previous plots). Likely driven by climate feedback loops — warming → droughts → fires → more GHG emissions.
+India shows the highest and most intense wildfire activity among the countries in this dataset. Annual area burnt ranges from 5 million to over 11.5 million hectares, with notable spikes in 2016 and 2021. The high variability suggests erratic wildfire behavior, influenced by a combination of temperature anomalies, prolonged droughts, land-use changes, and agricultural burning practices. The worsening wildfire pattern in India correlates strongly with rising temperatures and greenhouse gas emissions observed. This indicates a potential climate feedback loop where warming induces drought, which increases fire activity, which in turn releases more CO₂, further accelerating warming.
 
 2. China (blue line)
-* More stable than India but still burns between 1.5–5.5 million hectares annually
-* Peaks around 2014–2015, dips in 2018, and remains moderately stable
-* Reflects China’s massive forest and grassland coverage, population pressure, and climate stress. This reinforces the idea that human and climatic drivers both influence fire dynamics.
+China’s wildfire activity is steadier but still significant. Annual burned areas range between 1.5 to 5.5 million hectares. The graph shows peak fire years around 2014–2015, followed by a dip in 2018, and a stable trend afterwards. These fires reflect the challenges of managing vast forest and grassland regions under growing population density and increasing climate stress. While not as high as India, China’s wildfire trend shows the idea that both human and environmental factors contribute to the fire landscape.
 
 3. United Kingdom, Tonga, Dominica, Micronesia
-* All show flat lines near zero
-* It shows no significant wildfire activity
-* Small nations and the UK are not facing large-scale wildfires, but still suffer climate impacts (e.g., floods, storms).
-* Their absence here does not contradict warming, just shows impact varies by geography.
+United Kingdom, Tonga, Dominica, and Micronesia show flat lines near zero across the timeline, indicating little to no significant wildfire activity. These countries are not fire-prone due to their geography, climate, and land cover. However, their absence in wildfire data doesn’t mean safe from climate change. These regions face other risks such as flooding, sea level rise, and tropical storms showing that climate impacts vary by geography.
 
-India records the highest and most variable wildfire activity, with annual burned areas exceeding 11 million hectares in some years. China also shows consistent wildfire occurrence, though with lower volatility compared to India. By contrast, small island nations and the United Kingdom experience negligible wildfire activity. These patterns highlight the strong connection between rising global temperatures and increased wildfire risk, reinforcing that climate change not only drives warming but also amplifies climate-related hazards. Wildfires, in turn, release significant amounts of CO₂ and other greenhouse gases, creating a feedback loop that accelerates global warming and its environmental consequences.
+Overall, the data reveals a strong link between global warming and wildfire risk, particularly in larger, land-dense countries like India and China. The release of greenhouse gases from wildfires adds to the climate crisis, forming a dangerous cycle where climate change intensifies fires, and fires further contribute to climate change. This analysis highlights the broader consequences of warming, extending beyond temperature anomalies to include severe ecological and atmospheric effects.
 
 
 ---
 
 #  CONCLUSION
-The collected evidence from greenhouse gas emissions, temperature anomalies, wildfire patterns, volcanic activity, and disaster records converges on a single, undeniable reality: **global warming is primarily human-driven, with natural factors playing only temporary or localized roles.**  
-
-- The steep and sustained rise in CO₂, CH₄, and N₂O emissions from industrializing nations such as China and India mirrors their population growth, industrial expansion, and agricultural intensification.  
-- In contrast, the United Kingdom demonstrates that proactive policy, cleaner energy transitions, and agricultural reforms can stabilize and even reduce emissions.  
-- Small island nations such as Tonga, Dominica, and Micronesia contribute virtually nothing to global emissions, yet still endure the same warming trends — a stark example of climate injustice.  
-- The temperature anomaly data confirms that warming is universal, transcending national boundaries: both high-emission and low-emission countries have experienced rising temperatures, with post-1990 acceleration pushing anomalies above 2°C in some regions.  
-- The role of natural factors, such as volcanic aerosols, is evident in short-lived cooling episodes (e.g., Mount Pinatubo in 1991), but these events are temporary interruptions rather than explanations for the long-term upward trajectory of global temperatures.  
-- Likewise, disaster death tolls reveal how modernization, infrastructure, and policy have reduced vulnerability in nations like China and India, while countries with limited adaptive capacity remain at high risk from emerging climate threats.  
-- Wildfires stand out as both a symptom and a catalyst of climate change — intensified by higher temperatures and drier conditions, they in turn release massive greenhouse gases, locking the planet into a feedback cycle of worsening warming and hazards.  
-- Similarly, the surge in meat production and animal slaughter in emerging economies directly explains rising methane and nitrous oxide emissions, linking dietary and agricultural choices to the climate crisis.  
-
-**Taken together, these datasets form a clear narrative:**  
-- Human activity is the dominant driver of global warming.  
-- Natural events provide only short-term deviations.  
-- Vulnerable, low-emission nations bear disproportionate burdens.  
-- Policy, technology, and lifestyle choices matter — as shown by the UK’s emissions decline and the accelerating risks in developing regions.  
-
-The conclusion is inescapable: **addressing global warming is not optional but urgent.**  
-
-Mitigation through emissions reduction, sustainable agriculture, and energy transition must be paired with adaptation and equity, ensuring that nations least responsible for the crisis are supported in building resilience.  
-
-Without decisive global cooperation, the feedback loops of warming, disasters, and environmental degradation will intensify — threatening ecosystems, economies, and human survival worldwide.  
+The evidence from greenhouse gas emissions, temperature records, wildfire activity, volcanic aerosols, and disaster mortality strongly supports a single conclusion: global warming is primarily human-driven, with natural factors playing only temporary roles.
+The rapid increase in CO₂, CH₄, and N₂O emissions in industrializing nations such as China and India correlates directly with rapid population growth, industrial expansion, and intensified agriculture. In contrast, the United Kingdom demonstrates that emissions can be stabilized and even reduced through effective policies, cleaner energy transitions, and smarter agricultural practices. Meanwhile, small island nations like Tonga, Dominica, and Micronesia contribute almost nothing to global emissions, but still experience the same warming trends. This highlights the deep injustice at the heart of climate change: those least responsible often suffer the most severe impacts.
+Temperature data confirms that warming is not regional or isolated it is a global phenomenon. Countries of all sizes and emissions levels have experienced rising temperatures, with the steepest increases after 1990. In some regions, anomalies now exceed 2°C above baseline. Natural events, such as the Mount Pinatubo eruption in 1991, have led to temporary cooling periods due to stratospheric aerosol injection, these explains the persistent rise in global temperatures.
+Disaster death trends also reflect the influence of development and preparedness. China and India, which once recorded massive disaster fatalities due to climate hazards like floods and droughts, have seen sharp declines after 1980s, largely due to better infrastructure and policy interventions. However, countries with limited resources remain vulnerable to rising risks.
+Wildfires demonstrate the feedback nature of climate change: they are intensified by rising temperatures and droughts, and in turn release large quantities of CO₂ and other greenhouse gases, further warming the planet. A similar pattern is seen with livestock emissions the surge in meat production and animal slaughter in emerging economies is a major driver of methane and nitrous oxide emissions, linking food systems directly to climate outcomes.
+Together, these findings tell a clear story: human activity is the driving force behind global warming. Natural variability exists, but it cannot explain the long-term trends. The impact of climate change falls most heavily on those least responsible. 
+Addressing this crisis is no longer optional, it is a necessity. Reducing emissions, sustainable agriculture, transitioning to clean energy, and international support for adaptation must all be part of the solution. Without decisive global cooperation, climate feedback loops will intensify, threatening ecosystems, economies, and the lives of future generations
+.  
 
 ---
 
 # FUTURE WORKS
 
-1. **Natural Climate Drivers**  
-   - Solar irradiance fluctuations  
-   - Orbital/Milankovitch cycles  
-   - Ocean oscillations (ENSO, PDO, AMO)  
-   - Regional volcanic impacts  
-
-2. **Socioeconomic & Policy Dimensions**  
-   - Policy effectiveness: Compare countries with aggressive climate policies (e.g., UK, EU) vs. those with weaker measures.  
-   - Economic growth vs. emissions: Explore decoupling (can nations grow economically while reducing emissions?).  
-   - Climate justice: Quantify the unequal burden on low-emission nations vs. high-emission nations.  
-
-3. **Technological & Energy Transitions**  
-   - Renewable energy adoption: Solar, wind, hydropower — and their measurable impact on emissions.  
-   - Carbon capture and storage (CCS): Assessing its effectiveness in reducing net emissions.  
-   - Agricultural innovations: Low-methane rice, alternative fertilizers, lab-grown meat, plant-based diets.  
-
-4. **Environmental Feedback Loops**  
-   - Wildfire–warming cycle  
-   - Melting permafrost: Release of methane and carbon stores.  
-   - Ice–albedo feedback: Melting ice reducing reflectivity, increasing warming.  
-
-5. **Human & Social Impacts**  
-   - Health outcomes: Heat stress, air pollution from GHGs and wildfires.  
-   - Migration patterns: Climate refugees from small islands or drought-stricken areas.  
-   - Disaster preparedness: Differences in adaptation capacity across regions.  
+While this study presents strong evidence that global warming is primarily driven by human activities, there remains significant scope for expanding the analysis using both existing and additional datasets. One important next step is to bring in solar irradiance data. By performing statistical comparisons between solar activity and global temperature anomalies, future work could isolate the influence of natural solar variation. This would help confirm whether long-term warming is truly the result of greenhouse gas emissions, rather than changes in solar energy.
+Another important addition involves analyzing ocean surface temperature (SST) data. Oceans play a critical role in regulating Earth’s climate and absorb much of the excess heat caused by greenhouse gases. Including SST anomalies in the analysis would complement the land-based temperature trends already studied, and could further highlight how global warming is affecting both land and sea. Linking these SST trends with known events like El Niño and La Niña may also help differentiate between natural variability and human-driven trends.
+With a richer dataset in place, future work could also develop predictive models using multivariate regression or machine learning. By combining emissions data (CO₂, CH₄, N₂O), volcanic activity, solar irradiance, and ocean temperatures, these models could estimate future temperature trajectories and quantify the relative contribution of human versus natural drivers. This would provide a stronger backbone to the conclusions drawn in this project.
+Finally, a policy impact assessment at the national level would add a valuable real-world dimension. For example, examining the UK’s shift toward cleaner energy could show how specific policies have contributed to declining emissions. This kind of real-world evidence would demonstrate that mitigation strategies are not just theoretical but effective in practice.  
 
 ---
