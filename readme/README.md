@@ -47,15 +47,19 @@ Carbon dioxide (CO₂) is the most common greenhouse gas produced by humans. It 
 ![CO₂ Emissions](figures/co2_emissions_plot.png)  
 
 1. China (blue)
+
 China’s emissions remained low until around the 1950s. After that, they started rising, and from the 2000s onwards, they shot up very quickly. Today, China is the world’s biggest emitter of CO₂, producing over 11 billion tons a year. This huge increase is linked to China’s fast industrial growth, growing cities, and heavy use of coal. It clearly shows how human activities can cause sharp increases in greenhouse gas emissions.
 
 2. India (green)
+
 India also started with low emissions. From the 1950s onwards, emissions slowly grew, and then picked up more speed after 1990. By 2025, India’s emissions are expected to reach around 2.5 to 3 billion tons a year. This growth is due to the country’s large population, growing need for electricity, and farming. It shows how human development and energy use directly affect CO₂ levels.
 
 3. United Kingdom (brown)
+
 The UK has a different pattern. Its emissions started rising very early in the 1800s during the industrial revolution. But since the 1970s, the UK’s emissions have dropped steadily. This is because the country moved towards cleaner energy, better technology, and strong climate policies. The UK shows us that it's possible to reduce emissions while still growing the economy.
 
 4. Tonga / Dominica / Micronesia (pink/purple/orange)
+
 These small island nations have contributed almost nothing to global CO₂ emissions. Their emission levels have stayed flat and near zero. Yet, they are among the first to feel the effects of climate change like rising sea levels and stronger storms. This is a clear example of climate injustice: countries that pollute the least are often the most affected.
 
 Carbon dioxide (CO₂) is the largest contributor to anthropogenic climate change, primarily released through fossil fuel combustion, deforestation, and industrial activities. It is the most abundant long-lived greenhouse gas, remaining in the atmosphere for centuries and acting as the primary driver of sustained global warming. Our analysis shows steep increases in CO₂ emissions from industrializing nations such as China and India, especially after the 1950s, with China now the dominant global emitter. The United Kingdom, while historically one of the highest emitters, has seen emissions steadily decline since the 1970s due to policy shifts and a transition away from coal. Small island nations such as Tonga, Dominica, and Micronesia remain negligible contributors throughout the period. The plot reveals that China exhibits exponential growth in emissions beginning in the 1980s, while India follows a steadier upward trajectory. By contrast, the UK shows a clear downward path, reflecting decarbonization efforts. The sustained rise in emissions from emerging economies directly parallels their industrial and economic growth, strongly supporting the case that global warming is primarily driven by human activity rather than natural variability.
