@@ -1,4 +1,4 @@
-# 🌍 Global Warming: Human Influence Outweighs Natural Causes  
+# Global Warming: Human Influence Outweighs Natural Causes  
 
 ##  INTRODUCTION
 Global warming is one of the most pressing challenges of the 21st century. But is it primarily caused by human activity?  
