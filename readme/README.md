@@ -32,7 +32,7 @@ Ultimately, the project aims to show that while short-term variations may arise 
 # SECTION 1: 
 ## GREENHOUSE GASES  
 
-## CO₂ EMISSIONS  
+### CO₂ EMISSIONS  
 Carbon dioxide (CO₂) is the most common greenhouse gas produced by humans. It mainly comes from burning coal, oil, and gas for electricity, transport, and industry, as well as from cutting down trees. What makes CO₂ so harmful is that it stays in the atmosphere for hundreds of years, keeping the Earth warm long after it’s released.
 
 
@@ -54,7 +54,7 @@ Carbon dioxide (CO₂) is the largest contributor to anthropogenic climate chang
 
 
 
-## CH₄ EMISSIONS
+### CH₄ EMISSIONS
 Methane (CH₄) is one of the most powerful greenhouse gases, trapping over 25 times more heat than carbon dioxide over a century. The key human sources include, livestock farming, rice cultivation, landfills, and the oil and gas industry
   
 ![CH₄ Emissions](figures/methane_emissions_plot.png)
@@ -68,13 +68,13 @@ India’s methane emissions have been high for centuries, reflecting its long re
 3. United Kingdom (brown line):
 Methane emissions in the UK show a gradual increase from 1850 to around 1990, followed by a clear and sustained decline. By 2025, the UK’s emissions fall below 0.1 billion tons CO₂-equivalent. This reduction is largely due to improved livestock management, better landfill practices, and reduced coal mining. The UK’s progress shows that deliberate policies can meaningfully cut methane emission.
 
-4. Tonga, Dominica, Micronesia (pink, orange, purple — nearly flat lines):
+4. Tonga, Dominica, Micronesia (pink, orange, purple):
 For these small island countries, methane emissions have remained flat and close to zero across the entire period. Due to minimal industrial activity and limited livestock agriculture, their methane outputs are negligible. However, despite their low contributions, these countries still experience the damaging effects of climate change. Their situation underscores the disproportionate burden faced by low-emission nations due to emissions generated elsewhere.
 
 China and India show consistent growth in methane emissions, with a marked acceleration after the 1970s driven by agricultural expansion, livestock farming, and waste sector development. The United Kingdom, in contrast, demonstrates a steady decline in emissions after the 1990s, reflecting the success of regulatory measures and improved management practices. Small island nations contribute only negligible amounts of methane, yet remain among the most vulnerable to its warming effects, underscoring the disproportionate burden on low-emission countries. Overall, these trends highlight how human-driven agricultural and industrial activities are key contributors to rising methane levels and global warming.
 
 
-## N₂O EMISSIONS
+### N₂O EMISSIONS
 N₂O (nitrous oxide) is a potent greenhouse gas: ~298× more powerful than CO₂ per molecule (on a 100-year scale). Most of it comes from the way we farm and use fertilizers, how we manage livestock waste, burn fuels, and run certain industries
   
 ![N₂O Emissions](figures/no2_emissions_plot.png)  
@@ -88,7 +88,7 @@ In India, emissions were already slightly elevated in the 1800s due to long-stan
 3. United Kingdom (brown line):
 The United Kingdom shows a steady increase in emissions until the 1990s, followed by a significant decline of around 40%. This drop reflects the success of agricultural reforms, reduced fertilizer usage, and effective climate policy serving as an example of impactful climate governance.
 
-4. Tonga / Dominica / Micronesia (pink, purple, orange lines — flat at bottom):
+4. Tonga / Dominica / Micronesia (pink, purple, orange lines):
 Countries like Tonga, Dominica, and Micronesia display flat, near-zero emission levels throughout the time series. These small island nations contribute negligibly to global N₂O emissions, but still face the consequences of climate change.
 
 China and India’s sharp increases in N₂O emissions reflect the rise of fertilizer-heavy agriculture and industrial growth. However, UK shows that strong policies and changes in farming can reverse the trend.  Small island nations such as Tonga, Micronesia, and Dominica contribute almost nothing, but remain highly exposed to the consequences of global warming. These patterns gives the conclusion that greenhouse gas emissions and the resulting temperature rise are overwhelmingly linked to human activity, particularly in the agricultural sector.
@@ -217,21 +217,29 @@ Overall, the data reveals a strong link between global warming and wildfire risk
 #  CONCLUSION
 
 The evidence from greenhouse gas emissions, temperature records, wildfire activity, volcanic aerosols, and disaster mortality strongly supports a single conclusion: global warming is primarily human-driven, with natural factors playing only temporary roles.
+
 The rapid increase in CO₂, CH₄, and N₂O emissions in industrializing nations such as China and India correlates directly with rapid population growth, industrial expansion, and intensified agriculture. In contrast, the United Kingdom demonstrates that emissions can be stabilized and even reduced through effective policies, cleaner energy transitions, and smarter agricultural practices. Meanwhile, small island nations like Tonga, Dominica, and Micronesia contribute almost nothing to global emissions, but still experience the same warming trends. This highlights the deep injustice at the heart of climate change: those least responsible often suffer the most severe impacts.
+
 Temperature data confirms that warming is not regional or isolated it is a global phenomenon. Countries of all sizes and emissions levels have experienced rising temperatures, with the steepest increases after 1990. In some regions, anomalies now exceed 2°C above baseline. Natural events, such as the Mount Pinatubo eruption in 1991, have led to temporary cooling periods due to stratospheric aerosol injection, these explains the persistent rise in global temperatures.
+
 Disaster death trends also reflect the influence of development and preparedness. China and India, which once recorded massive disaster fatalities due to climate hazards like floods and droughts, have seen sharp declines after 1980s, largely due to better infrastructure and policy interventions. However, countries with limited resources remain vulnerable to rising risks.
+
 Wildfires demonstrate the feedback nature of climate change: they are intensified by rising temperatures and droughts, and in turn release large quantities of CO₂ and other greenhouse gases, further warming the planet. A similar pattern is seen with livestock emissions the surge in meat production and animal slaughter in emerging economies is a major driver of methane and nitrous oxide emissions, linking food systems directly to climate outcomes.
+
 Together, these findings tell a clear story: human activity is the driving force behind global warming. Natural variability exists, but it cannot explain the long-term trends. The impact of climate change falls most heavily on those least responsible. 
-Addressing this crisis is no longer optional, it is a necessity. Reducing emissions, sustainable agriculture, transitioning to clean energy, and international support for adaptation must all be part of the solution. Without decisive global cooperation, climate feedback loops will intensify, threatening ecosystems, economies, and the lives of future generations
-.  
+
+Addressing this crisis is no longer optional, it is a necessity. Reducing emissions, sustainable agriculture, transitioning to clean energy, and international support for adaptation must all be part of the solution. Without decisive global cooperation, climate feedback loops will intensify, threatening ecosystems, economies, and the lives of future generations.  
 
 ---
 
 # FUTURE WORKS
 
 While this study presents strong evidence that global warming is primarily driven by human activities, there remains significant scope for expanding the analysis using both existing and additional datasets. One important next step is to bring in solar irradiance data. By performing statistical comparisons between solar activity and global temperature anomalies, future work could isolate the influence of natural solar variation. This would help confirm whether long-term warming is truly the result of greenhouse gas emissions, rather than changes in solar energy.
+
 Another important addition involves analyzing ocean surface temperature (SST) data. Oceans play a critical role in regulating Earth’s climate and absorb much of the excess heat caused by greenhouse gases. Including SST anomalies in the analysis would complement the land-based temperature trends already studied, and could further highlight how global warming is affecting both land and sea. Linking these SST trends with known events like El Niño and La Niña may also help differentiate between natural variability and human-driven trends.
+
 With a richer dataset in place, future work could also develop predictive models using multivariate regression or machine learning. By combining emissions data (CO₂, CH₄, N₂O), volcanic activity, solar irradiance, and ocean temperatures, these models could estimate future temperature trajectories and quantify the relative contribution of human versus natural drivers. This would provide a stronger backbone to the conclusions drawn in this project.
+
 Finally, a policy impact assessment at the national level would add a valuable real-world dimension. For example, examining the UK’s shift toward cleaner energy could show how specific policies have contributed to declining emissions. This kind of real-world evidence would demonstrate that mitigation strategies are not just theoretical but effective in practice.  
 
 ---
